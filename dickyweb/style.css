@@ -1,0 +1,22 @@
+body {
+	height: 1000px;
+	background-image: url(img/mark.jpeg);
+	background-attachment: fixed;
+	background-position: 0 -100px;
+};
+
+.jumbotron {
+};
+
+.isiartikel a {
+	text-decoration: none;
+	color: white;
+};
+
+.mainartikel {
+  border: 5px solid #eaeaea
+  padding-top: 5px; 
+  padding-bottom: 5px; 
+  padding: 10px;
+  margin-top: 10px;
+};
